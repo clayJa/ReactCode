@@ -1,0 +1,16 @@
+/SimpleReduxExample/node_modules
+/SimpleReduxExample/test
+/SimpleReduxExample/dist
+/SimpleReduxExample/npm-debug.log
+/SimpleYouTubeSearch/node_modules
+/SimpleYouTubeSearch/test
+/SimpleYouTubeSearch/dist
+/SimpleYouTubeSearch/npm-debug.log
+/weather/node_modules
+/weather/test
+/weather/dist
+/weather/npm-debug.log
+/blog/node_modules
+/blog/test
+/blog/dist
+/blog/npm-debug.log
